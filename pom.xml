@@ -18,6 +18,12 @@
         <hadoop.version>2.7.1</hadoop.version>
     </properties>
     <dependencies>
+        <!--fastjson-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.76</version>
+        </dependency>
         <!--test-->
         <dependency>
             <groupId>junit</groupId>
