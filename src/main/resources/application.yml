@@ -1,0 +1,15 @@
+hadoop.name-node: hdfs://localhost:9000
+hadoop.namespace: /
+#  hadoop:
+#    fsUri: hdfs://132.232.44.82:9000
+
+#¶Ë¿Ú
+server:
+  port: 8080
+
+#logÈÕÖ¾
+logging:
+  level:
+    com:
+      jeffrey:
+       hadoopstudy: debug
