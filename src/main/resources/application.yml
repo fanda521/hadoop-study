@@ -3,11 +3,11 @@ hadoop.namespace: /
 #  hadoop:
 #    fsUri: hdfs://132.232.44.82:9000
 
-#¶Ë¿Ú
+#ç«¯å£
 server:
   port: 8080
 
-#logÈÕÖ¾
+#logæ—¥å¿—
 logging:
   level:
     com:
